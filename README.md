@@ -1,0 +1,1 @@
+# cmk_php_nyhedssite
